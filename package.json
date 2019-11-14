@@ -1,0 +1,26 @@
+{
+  "name": "redditbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "snoostorm": "^1.2.2",
+    "snoowrap": "^1.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shup30/redditbot.git"
+  },
+  "author": "shubham patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shup30/redditbot/issues"
+  },
+  "homepage": "https://github.com/shup30/redditbot#readme"
+}
